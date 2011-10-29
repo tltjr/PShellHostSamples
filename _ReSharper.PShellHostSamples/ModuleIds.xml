@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="2DAEBA11-D3B0-4344-820C-20A90E022C90" ModuleId="Host01" />
+  <Module PersistentId="8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708" ModuleId="Host02" />
+  <Module PersistentId="B8E240AC-60D1-4F64-A935-CBB2DAA7B421" ModuleId="Host03" />
+</Modules>

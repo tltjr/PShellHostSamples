@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host01", "Host01\Host01.csproj", "{2DAEBA11-D3B0-4344-820C-20A90E022C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host02", "Host02\Host02.csproj", "{8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host03", "Host03\Host03.csproj", "{B8E240AC-60D1-4F64-A935-CBB2DAA7B421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAEBA11-D3B0-4344-820C-20A90E022C90}.Debug|x86.ActiveCfg = Debug|x86
+		{2DAEBA11-D3B0-4344-820C-20A90E022C90}.Debug|x86.Build.0 = Debug|x86
+		{2DAEBA11-D3B0-4344-820C-20A90E022C90}.Release|x86.ActiveCfg = Release|x86
+		{2DAEBA11-D3B0-4344-820C-20A90E022C90}.Release|x86.Build.0 = Release|x86
+		{8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708}.Debug|x86.ActiveCfg = Debug|x86
+		{8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708}.Debug|x86.Build.0 = Debug|x86
+		{8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708}.Release|x86.ActiveCfg = Release|x86
+		{8C4CFA0F-E4AA-4E85-A88F-C57E0AAEC708}.Release|x86.Build.0 = Release|x86
+		{B8E240AC-60D1-4F64-A935-CBB2DAA7B421}.Debug|x86.ActiveCfg = Debug|x86
+		{B8E240AC-60D1-4F64-A935-CBB2DAA7B421}.Debug|x86.Build.0 = Debug|x86
+		{B8E240AC-60D1-4F64-A935-CBB2DAA7B421}.Release|x86.ActiveCfg = Release|x86
+		{B8E240AC-60D1-4F64-A935-CBB2DAA7B421}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

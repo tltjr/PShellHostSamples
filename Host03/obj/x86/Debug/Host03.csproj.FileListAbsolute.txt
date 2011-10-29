@@ -1,0 +1,5 @@
+T:\src\dotnet\PShellHostSamples\Host03\bin\Debug\Host03.exe
+T:\src\dotnet\PShellHostSamples\Host03\bin\Debug\Host03.pdb
+T:\src\dotnet\PShellHostSamples\Host03\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\src\dotnet\PShellHostSamples\Host03\obj\x86\Debug\Host03.exe
+T:\src\dotnet\PShellHostSamples\Host03\obj\x86\Debug\Host03.pdb
